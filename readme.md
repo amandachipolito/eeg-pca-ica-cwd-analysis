@@ -2,11 +2,15 @@
 
 Academic project developed during the Biomedical Signal Processing course at the Federal University of ABC (UFABC).
 
+---
+
 ## Overview
 
 This project investigates the application of Principal Component Analysis (PCA), Independent Component Analysis (ICA), and Choi-Williams Distribution (CWD) for the analysis of epileptic EEG recordings.
 
-The study was conducted using seven seizure events from patient CHB1 of the CHB-MIT EEG Database.
+The study was conducted using seven seizure events from patient CHB1 of the CHB-MIT Scalp EEG Database.
+
+The objective was to evaluate how dimensionality reduction, source separation, and time-frequency analysis can reveal relevant structures associated with epileptic seizures.
 
 ---
 
@@ -51,7 +55,7 @@ The study was conducted using seven seizure events from patient CHB1 of the CHB-
 
 ## Dataset
 
-CHB-MIT Scalp EEG Database
+**CHB-MIT Scalp EEG Database**
 
 Patient analyzed:
 
@@ -74,6 +78,19 @@ Number of seizures analyzed:
 
 ---
 
+## Techniques and Concepts
+
+* Electroencephalography (EEG)
+* Biomedical Signal Processing
+* Principal Component Analysis (PCA)
+* Independent Component Analysis (ICA)
+* Time-Frequency Analysis
+* Choi-Williams Distribution (CWD)
+* Seizure Detection
+* Computational Neuroscience
+
+---
+
 ## Authors
 
 Amanda Cruz Hipólito
@@ -84,6 +101,14 @@ Vinícius Zacheo de Goes
 
 ---
 
+## Full Article
+
+📄 Read the complete manuscript:
+
+[Application of PCA, ICA and CWD in the Analysis of Epileptic EEG](https://github.com/amandachipolito/eeg-pca-ica-cwd-analysis/blob/main/paper/Application%20of%20PCA%20ICA%20and%20CWD%20in%20the%20Analysis%20of%20Epileptic%20EEG%20-%20A%20Study%20with%20Seven%20Seizures%20from%20Patient%20CHB1.pdf)
+
+---
+
 ## Academic Context
 
-This repository contains an academic project and is intended for educational and research purposes.
+This repository contains an academic project developed during the Biomedical Signal Processing course and is intended for educational and research purposes.
